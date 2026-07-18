@@ -1,0 +1,82 @@
+{
+    "G1": {
+        "description": "Default sentence/constituent order is SOV (Subject-Object-Verb), as in other Dravidian languages, with some freedom in ordering S and O.",
+        "example": "-",
+        "source": "Emeneau 1984:49, via Toda Language blog (Syntax page)"
+    },
+    "G2": {
+        "description": "Plural nouns are commonly marked with the suffix -am.",
+        "example": "-",
+        "source": "Emeneau 1984:69, via Toda Language blog (Morphology page)"
+    },
+    "G3": {
+        "description": "Dative case is marked with suffix -k added to the oblique stem.",
+        "example": "o\u026b.k 'to the Toda'; \u00efrk 'to the buffalo'; kw\u00efgk 'to the plains'; mor\u0320tk 'to the mund'",
+        "source": "Emeneau 1984, via Toda Language blog (Morphology page)"
+    },
+    "G4": {
+        "description": "Locative case has 5 allomorphs of the suffix: -s, -\u0161, -\u017e, -s., -z., added to the oblique stem.",
+        "example": "kubs 'at the back'; po\u026b.y\u0161 'at the dairy'; mu\u017e 'in the vessel'; kw\u00eft.s. 'on the branch'; pos\u0320\u00f6z. 'at Nos. mund'",
+        "source": "Emeneau 1984, via Toda Language blog (Morphology page)"
+    },
+    "G5": {
+        "description": "Ablative case is marked with suffix -s\u0320n.",
+        "example": "kw\u00efgs\u0320n, ker\u0320\u00efrk, tod. fodf\u00efs.k \u00efd\u0320ti 'An army came from the plains to Ker\u0320\u00efr -- so they say.'",
+        "source": "Emeneau 1984, via Toda Language blog (Morphology page)"
+    },
+    "G6": {
+        "description": "Instrumental case (means) is marked with suffix -\u00eft\u0320, meaning 'by means of, with', added to noun stems.",
+        "example": "w\u00efd\u0320 xw\u00efr.\u00eft. er\u0320sn 'when it dug with one horn'; mo\u0161t\u00eft. xwar\u0320f\u00efn. 'he cut at him with the axe'",
+        "source": "Emeneau 1984, via Toda Language blog (Morphology page)"
+    },
+    "G7": {
+        "description": "Causative sense on nouns is marked with suffix -\u00efd, meaning 'because of', added to noun stems.",
+        "example": "en\u00efd 'with my help'; n\u00efn\u00efd 'it is in your power'; an\u00efd xw\u00efd.f\u00efn.g 'because of her they quarreled'",
+        "source": "Emeneau 1984, via Toda Language blog (Morphology page)"
+    },
+    "G8": {
+        "description": "Sociative ('with, along with') is formed in two ways: (1) noun + -pod\u0320y 'following after'; (2) noun + suffix -w\u00efr\u0320 'with'.",
+        "example": "a\u03b8an bod\u0320y s\u00f6dot.i 'do not associate with them!'; p\u00f6r\u0320w\u00efr\u0320 xur\u0320yot.i 'do not associate with Tamilians!'",
+        "source": "Emeneau 1984, via Toda Language blog (Morphology page)"
+    },
+    "G9": {
+        "description": "Verbs have two stems, S1 and S2. S2 is derived from S1 by one of several class-specific suffixes: -y-, -\u03b8-, -t-, or -d-.",
+        "example": "sop- / sopy- 'to suck'; kof- / kof\u03b8- 'to be turned upside down'; muf- / mut- 'to become old'; kw\u00efl.- / kw\u00efl.d- 'to hatch'",
+        "source": "Emeneau 1984:114, via Toda Language blog (Morphology page)"
+    },
+    "G10": {
+        "description": "Both past tense and present-future tense forms are built on the S2 stem, with person/number suffixes; there are also tenseless verb forms.",
+        "example": "p\u00efx- / pi- 'to go' -> present-future 3sg pit (paradigm I) / piu (paradigm II); past 3sg pi\u010d (paradigm I) / pi\u0161k (paradigm II)",
+        "source": "Emeneau 1984:114-131, via Toda Language blog (Morphology page)"
+    },
+    "G11": {
+        "description": "Modes such as negative, voluntative, dubitative, and imperative are marked through different S2 verb suffixes.",
+        "example": "-",
+        "source": "Emeneau 1984:131, via Toda Language blog (Morphology page)"
+    },
+    "G12": {
+        "description": "Adjectives are a small, largely uninflected word class that precedes the noun it modifies and does not agree with it in gender or number.",
+        "example": "not.is\u0320y, to\u0290 mox \u03b8\u00f6wu. 'Not.is\u0320y is a female deity' (to\u0290 mox 'woman' used attributively for 'female')",
+        "source": "Emeneau 1984, via Toda Language blog (Morphology page)"
+    },
+    "G13": {
+        "description": "Personal pronouns have distinct subject and oblique (case-base) forms in the singular, but only a single form (used for both subject and oblique) in the plural.",
+        "example": "1sg subject on / oblique en-; 2sg subject ni / oblique n\u00efn-; 1pl exclusive em (single form)",
+        "source": "Emeneau 1984, via Toda Language blog (Morphology page)"
+    },
+    "G14": {
+        "description": "Numerals function grammatically as nouns and can take case suffixes; they typically occur immediately before or after the noun they quantify.",
+        "example": "-",
+        "source": "Emeneau 1984, via Toda Language blog (Morphology page)"
+    },
+    "G15": {
+        "description": "The verb root can be expanded four ways: by stem suffixes, by non-finite suffixes, by noun-derivative suffixes, or into a subordinate predication to build complex sentences.",
+        "example": "-",
+        "source": "Emeneau 1984:49, via Toda Language blog (Syntax page)"
+    },
+    "G16": {
+        "description": "Toda exhibits echo-word (echo-morpheme) constructions in both nouns and verbs, a feature shared with Tamil.",
+        "example": "-",
+        "source": "Emeneau 1984:68-69, via Toda Language blog (Syntax page)"
+    }
+}

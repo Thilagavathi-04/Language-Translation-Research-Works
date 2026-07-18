@@ -1,0 +1,536 @@
+{
+    "water": {
+        "toda": "nir",
+        "pos": "noun",
+        "notes": "monomorphemic noun",
+        "source": "Emeneau 1984, via Toda Language blog (Morphology page)"
+    },
+    "salt": {
+        "toda": "up",
+        "pos": "noun",
+        "notes": "monomorphemic noun",
+        "source": "Emeneau 1984, via Toda Language blog (Morphology page)"
+    },
+    "man / toda man": {
+        "toda": "o\u026b.",
+        "pos": "noun",
+        "notes": "monomorphemic noun",
+        "source": "Emeneau 1984, via Toda Language blog (Morphology page)"
+    },
+    "moonlight": {
+        "toda": "nes\u0320of",
+        "pos": "noun",
+        "notes": "monomorphemic noun",
+        "source": "Emeneau 1984, via Toda Language blog (Morphology page)"
+    },
+    "butterfly": {
+        "toda": "kopan.",
+        "pos": "noun",
+        "notes": "monomorphemic noun",
+        "source": "Emeneau 1984, via Toda Language blog (Morphology page)"
+    },
+    "urine": {
+        "toda": "pisk",
+        "pos": "noun",
+        "notes": "IPA transcription; Tamil gloss \u0baa\u0bbf\u0bb8\u0bcd\u0b95\u0bcd",
+        "source": "Nara & Bhaskararao 2001, via Toda Language blog (Vocabulary page)"
+    },
+    "swing": {
+        "toda": "pi:s",
+        "pos": "noun",
+        "notes": "IPA transcription; Tamil gloss \u0baa\u0bc0\u0bb8\u0bcd",
+        "source": "Nara & Bhaskararao 2001, via Toda Language blog (Vocabulary page)"
+    },
+    "a quantity of buttermilk kept as a coagulant": {
+        "toda": "pep",
+        "pos": "noun",
+        "notes": "IPA transcription; Tamil gloss \u0baa\u0bc6\u0baa\u0bcd",
+        "source": "Nara & Bhaskararao 2001, via Toda Language blog (Vocabulary page)"
+    },
+    "flour": {
+        "toda": "it",
+        "pos": "noun",
+        "notes": "IPA transcription; Tamil gloss \u0b87\u0b9f\u0bcd",
+        "source": "Nara & Bhaskararao 2001, via Toda Language blog (Vocabulary page)"
+    },
+    "spear": {
+        "toda": "i\u02d0ty",
+        "pos": "noun",
+        "notes": "IPA transcription; Tamil gloss \u0b88\u0b9f\u0bcd\u0b9f\u0bbf",
+        "source": "Nara & Bhaskararao 2001, via Toda Language blog (Vocabulary page)"
+    },
+    "on what day": {
+        "toda": "elfin",
+        "pos": "adverb",
+        "notes": "IPA transcription; Tamil gloss \u0b87\u0baa\u0bbf\u0ba9\u0bcd",
+        "source": "Nara & Bhaskararao 2001, via Toda Language blog (Vocabulary page)"
+    },
+    "leaf": {
+        "toda": "es\u0320",
+        "pos": "noun",
+        "notes": "IPA transcription; Tamil gloss \u0b8e\u0bb8\u0bcd",
+        "source": "Nara & Bhaskararao 2001, via Toda Language blog (Vocabulary page)"
+    },
+    "on that day": {
+        "toda": "ad\u0320",
+        "pos": "adverb",
+        "notes": "IPA transcription; Tamil gloss \u0b85\u0ba4\u0bcd",
+        "source": "Nara & Bhaskararao 2001, via Toda Language blog (Vocabulary page)"
+    },
+    "puffed rice": {
+        "toda": "ofil",
+        "pos": "noun",
+        "notes": "IPA transcription; Tamil gloss \u0b92\u0baa\u0bcd\u0baa\u0bbf\u0baf\u0bb2\u0bcd",
+        "source": "Nara & Bhaskararao 2001, via Toda Language blog (Vocabulary page)"
+    },
+    "breath": {
+        "toda": "o\u02d0fy",
+        "pos": "noun",
+        "notes": "IPA transcription; Tamil gloss \u0b92\u0baa\u0bcd\u0baa\u0bbf",
+        "source": "Nara & Bhaskararao 2001, via Toda Language blog (Vocabulary page)"
+    },
+    "i (1sg subject)": {
+        "toda": "on",
+        "pos": "pronoun",
+        "notes": "subject form",
+        "source": "Emeneau 1984, via Toda Language blog (Morphology page)"
+    },
+    "i (1sg oblique)": {
+        "toda": "en-",
+        "pos": "pronoun",
+        "notes": "oblique/base form used for other cases",
+        "source": "Emeneau 1984, via Toda Language blog (Morphology page)"
+    },
+    "you (2sg subject)": {
+        "toda": "ni",
+        "pos": "pronoun",
+        "notes": "subject form",
+        "source": "Emeneau 1984, via Toda Language blog (Morphology page)"
+    },
+    "you (2sg oblique)": {
+        "toda": "n\u00efn-",
+        "pos": "pronoun",
+        "notes": "oblique/base form used for other cases",
+        "source": "Emeneau 1984, via Toda Language blog (Morphology page)"
+    },
+    "oneself (reflexive sg subject)": {
+        "toda": "ton",
+        "pos": "pronoun",
+        "notes": "subject form",
+        "source": "Emeneau 1984, via Toda Language blog (Morphology page)"
+    },
+    "oneself (reflexive sg oblique)": {
+        "toda": "tan-",
+        "pos": "pronoun",
+        "notes": "oblique/base form used for other cases",
+        "source": "Emeneau 1984, via Toda Language blog (Morphology page)"
+    },
+    "we (1pl exclusive)": {
+        "toda": "em",
+        "pos": "pronoun",
+        "notes": "single form for subject and oblique",
+        "source": "Emeneau 1984, via Toda Language blog (Morphology page)"
+    },
+    "we (1pl inclusive)": {
+        "toda": "om",
+        "pos": "pronoun",
+        "notes": "single form for subject and oblique",
+        "source": "Emeneau 1984, via Toda Language blog (Morphology page)"
+    },
+    "you (2pl)": {
+        "toda": "n\u00efm",
+        "pos": "pronoun",
+        "notes": "single form for subject and oblique",
+        "source": "Emeneau 1984, via Toda Language blog (Morphology page)"
+    },
+    "themselves (reflexive pl)": {
+        "toda": "tam",
+        "pos": "pronoun",
+        "notes": "single form for subject and oblique",
+        "source": "Emeneau 1984, via Toda Language blog (Morphology page)"
+    },
+    "one": {
+        "toda": "w\u00efd\u0320",
+        "pos": "numeral",
+        "notes": NaN,
+        "source": "Emeneau 1984, via Toda Language blog (Morphology page)"
+    },
+    "two": {
+        "toda": "ed.",
+        "pos": "numeral",
+        "notes": NaN,
+        "source": "Emeneau 1984, via Toda Language blog (Morphology page)"
+    },
+    "three": {
+        "toda": "mud\u0320",
+        "pos": "numeral",
+        "notes": NaN,
+        "source": "Emeneau 1984, via Toda Language blog (Morphology page)"
+    },
+    "four": {
+        "toda": "nong",
+        "pos": "numeral",
+        "notes": NaN,
+        "source": "Emeneau 1984, via Toda Language blog (Morphology page)"
+    },
+    "five": {
+        "toda": "\u00fc\u0290",
+        "pos": "numeral",
+        "notes": NaN,
+        "source": "Emeneau 1984, via Toda Language blog (Morphology page)"
+    },
+    "six": {
+        "toda": "or\u0320",
+        "pos": "numeral",
+        "notes": NaN,
+        "source": "Emeneau 1984, via Toda Language blog (Morphology page)"
+    },
+    "seven": {
+        "toda": "\u00f6w",
+        "pos": "numeral",
+        "notes": NaN,
+        "source": "Emeneau 1984, via Toda Language blog (Morphology page)"
+    },
+    "eight": {
+        "toda": "\u00f6t.",
+        "pos": "numeral",
+        "notes": NaN,
+        "source": "Emeneau 1984, via Toda Language blog (Morphology page)"
+    },
+    "nine": {
+        "toda": "w\u00efnbo\u03b8",
+        "pos": "numeral",
+        "notes": NaN,
+        "source": "Emeneau 1984, via Toda Language blog (Morphology page)"
+    },
+    "ten": {
+        "toda": "pot",
+        "pos": "numeral",
+        "notes": NaN,
+        "source": "Emeneau 1984, via Toda Language blog (Morphology page)"
+    },
+    "twenty": {
+        "toda": "\u00ef fo\u03b8",
+        "pos": "numeral",
+        "notes": NaN,
+        "source": "Emeneau 1984, via Toda Language blog (Morphology page)"
+    },
+    "hundred": {
+        "toda": "nur\u0320",
+        "pos": "numeral",
+        "notes": NaN,
+        "source": "Emeneau 1984, via Toda Language blog (Morphology page)"
+    },
+    "thousand": {
+        "toda": "sofer",
+        "pos": "numeral",
+        "notes": NaN,
+        "source": "Emeneau 1984, via Toda Language blog (Morphology page)"
+    },
+    "big": {
+        "toda": "per or \u00eft",
+        "pos": "adjective",
+        "notes": "precedes noun; no gender/number agreement",
+        "source": "Emeneau 1984, via Toda Language blog (Morphology page)"
+    },
+    "small": {
+        "toda": "k\u00efr\u0320 or kin",
+        "pos": "adjective",
+        "notes": "precedes noun; no gender/number agreement",
+        "source": "Emeneau 1984, via Toda Language blog (Morphology page)"
+    },
+    "small / short": {
+        "toda": "kut.",
+        "pos": "adjective",
+        "notes": "precedes noun; no gender/number agreement",
+        "source": "Emeneau 1984, via Toda Language blog (Morphology page)"
+    },
+    "short": {
+        "toda": "kur\u0320",
+        "pos": "adjective",
+        "notes": "precedes noun; no gender/number agreement",
+        "source": "Emeneau 1984, via Toda Language blog (Morphology page)"
+    },
+    "green": {
+        "toda": "po\u010d",
+        "pos": "adjective",
+        "notes": "precedes noun; no gender/number agreement",
+        "source": "Emeneau 1984, via Toda Language blog (Morphology page)"
+    },
+    "white": {
+        "toda": "p\u00f6\u026b.",
+        "pos": "adjective",
+        "notes": "precedes noun; no gender/number agreement",
+        "source": "Emeneau 1984, via Toda Language blog (Morphology page)"
+    },
+    "red": {
+        "toda": "k\u00f6-",
+        "pos": "adjective",
+        "notes": "bound form",
+        "source": "Emeneau 1984, via Toda Language blog (Morphology page)"
+    },
+    "black": {
+        "toda": "ka- or kax",
+        "pos": "adjective",
+        "notes": NaN,
+        "source": "Emeneau 1984, via Toda Language blog (Morphology page)"
+    },
+    "beautiful": {
+        "toda": "nas\u0320",
+        "pos": "adjective",
+        "notes": NaN,
+        "source": "Emeneau 1984, via Toda Language blog (Morphology page)"
+    },
+    "right / left": {
+        "toda": "pas\u0320",
+        "pos": "adjective",
+        "notes": "context-dependent meaning",
+        "source": "Emeneau 1984, via Toda Language blog (Morphology page)"
+    },
+    "old": {
+        "toda": "paw",
+        "pos": "adjective",
+        "notes": NaN,
+        "source": "Emeneau 1984, via Toda Language blog (Morphology page)"
+    },
+    "new": {
+        "toda": "pu\u03b8",
+        "pos": "adjective",
+        "notes": NaN,
+        "source": "Emeneau 1984, via Toda Language blog (Morphology page)"
+    },
+    "uninhabited": {
+        "toda": "po",
+        "pos": "adjective",
+        "notes": NaN,
+        "source": "Emeneau 1984, via Toda Language blog (Morphology page)"
+    },
+    "defective": {
+        "toda": "kwar\u0320",
+        "pos": "adjective",
+        "notes": NaN,
+        "source": "Emeneau 1984, via Toda Language blog (Morphology page)"
+    },
+    "next in time": {
+        "toda": "mar\u0320",
+        "pos": "adjective",
+        "notes": NaN,
+        "source": "Emeneau 1984, via Toda Language blog (Morphology page)"
+    },
+    "below": {
+        "toda": "ki",
+        "pos": "adjective",
+        "notes": NaN,
+        "source": "Emeneau 1984, via Toda Language blog (Morphology page)"
+    },
+    "above": {
+        "toda": "mel",
+        "pos": "adjective",
+        "notes": NaN,
+        "source": "Emeneau 1984, via Toda Language blog (Morphology page)"
+    },
+    "afterwards / then": {
+        "toda": "p\u00efn",
+        "pos": "adverb",
+        "notes": NaN,
+        "source": "Emeneau 1984, via Toda Language blog (Morphology page)"
+    },
+    "first (in time) / before": {
+        "toda": "maxar\u0320",
+        "pos": "adverb",
+        "notes": NaN,
+        "source": "Emeneau 1984, via Toda Language blog (Morphology page)"
+    },
+    "tomorrow": {
+        "toda": "makol",
+        "pos": "adverb",
+        "notes": NaN,
+        "source": "Emeneau 1984, via Toda Language blog (Morphology page)"
+    },
+    "morning / in the morning": {
+        "toda": "isy",
+        "pos": "adverb",
+        "notes": NaN,
+        "source": "Emeneau 1984, via Toda Language blog (Morphology page)"
+    },
+    "why?": {
+        "toda": "ed\u0320",
+        "pos": "adverb",
+        "notes": "interrogative",
+        "source": "Emeneau 1984, via Toda Language blog (Morphology page)"
+    },
+    "there": {
+        "toda": "al",
+        "pos": "adverb",
+        "notes": NaN,
+        "source": "Emeneau 1984, via Toda Language blog (Morphology page)"
+    },
+    "here": {
+        "toda": "il",
+        "pos": "adverb",
+        "notes": NaN,
+        "source": "Emeneau 1984, via Toda Language blog (Morphology page)"
+    },
+    "where?": {
+        "toda": "el",
+        "pos": "adverb",
+        "notes": "interrogative",
+        "source": "Emeneau 1984, via Toda Language blog (Morphology page)"
+    },
+    "go (s1 stem)": {
+        "toda": "p\u00efx-",
+        "pos": "verb",
+        "notes": "S1/S2 stem pair p\u00efx-/pi-",
+        "source": "Emeneau 1984, via Toda Language blog (Morphology page)"
+    },
+    "go (s2 stem)": {
+        "toda": "pi-",
+        "pos": "verb",
+        "notes": "used for verb-conjugation table below",
+        "source": "Emeneau 1984, via Toda Language blog (Morphology page)"
+    },
+    "suck (s1)": {
+        "toda": "sop-",
+        "pos": "verb",
+        "notes": "S2 formed with -y-",
+        "source": "Emeneau 1984, via Toda Language blog (Morphology page)"
+    },
+    "suck (s2)": {
+        "toda": "sopy-",
+        "pos": "verb",
+        "notes": "S2 = S1 + -y-",
+        "source": "Emeneau 1984, via Toda Language blog (Morphology page)"
+    },
+    "postpone / fail to come / escape (s1)": {
+        "toda": "top-",
+        "pos": "verb",
+        "notes": "S2 formed with -y-",
+        "source": "Emeneau 1984, via Toda Language blog (Morphology page)"
+    },
+    "postpone / fail to come / escape (s2)": {
+        "toda": "topy-",
+        "pos": "verb",
+        "notes": "S2 = S1 + -y-",
+        "source": "Emeneau 1984, via Toda Language blog (Morphology page)"
+    },
+    "trust / believe (s1)": {
+        "toda": "nob-",
+        "pos": "verb",
+        "notes": "S2 formed with -y-",
+        "source": "Emeneau 1984, via Toda Language blog (Morphology page)"
+    },
+    "trust / believe (s2)": {
+        "toda": "noby-",
+        "pos": "verb",
+        "notes": "S2 = S1 + -y-",
+        "source": "Emeneau 1984, via Toda Language blog (Morphology page)"
+    },
+    "be turned upside down (s1)": {
+        "toda": "kof-",
+        "pos": "verb",
+        "notes": "S2 formed with -\u03b8-",
+        "source": "Emeneau 1984, via Toda Language blog (Morphology page)"
+    },
+    "be turned upside down (s2)": {
+        "toda": "kof\u03b8-",
+        "pos": "verb",
+        "notes": "S2 = S1 + -\u03b8-",
+        "source": "Emeneau 1984, via Toda Language blog (Morphology page)"
+    },
+    "beat a drum (s1)": {
+        "toda": "wad.-",
+        "pos": "verb",
+        "notes": "S2 formed with -\u03b8-",
+        "source": "Emeneau 1984, via Toda Language blog (Morphology page)"
+    },
+    "beat a drum (s2)": {
+        "toda": "wad.\u03b8-",
+        "pos": "verb",
+        "notes": "S2 = S1 + -\u03b8-",
+        "source": "Emeneau 1984, via Toda Language blog (Morphology page)"
+    },
+    "milk / to milk (s1)": {
+        "toda": "kar\u0320-",
+        "pos": "verb",
+        "notes": "S2 formed with -\u03b8-",
+        "source": "Emeneau 1984, via Toda Language blog (Morphology page)"
+    },
+    "milk / to milk (s2)": {
+        "toda": "kar\u0320\u03b8-",
+        "pos": "verb",
+        "notes": "S2 = S1 + -\u03b8-",
+        "source": "Emeneau 1984, via Toda Language blog (Morphology page)"
+    },
+    "become old (s1)": {
+        "toda": "muf-",
+        "pos": "verb",
+        "notes": "S2 formed with -t-",
+        "source": "Emeneau 1984, via Toda Language blog (Morphology page)"
+    },
+    "become old (s2)": {
+        "toda": "mut-",
+        "pos": "verb",
+        "notes": "S2 = S1 + -t-",
+        "source": "Emeneau 1984, via Toda Language blog (Morphology page)"
+    },
+    "take / receive (s1)": {
+        "toda": "ef-",
+        "pos": "verb",
+        "notes": "S2 formed with -t-",
+        "source": "Emeneau 1984, via Toda Language blog (Morphology page)"
+    },
+    "take / receive (s2)": {
+        "toda": "et-",
+        "pos": "verb",
+        "notes": "S2 = S1 + -t-",
+        "source": "Emeneau 1984, via Toda Language blog (Morphology page)"
+    },
+    "blossom (s1)": {
+        "toda": "puf-",
+        "pos": "verb",
+        "notes": "S2 formed with -t-",
+        "source": "Emeneau 1984, via Toda Language blog (Morphology page)"
+    },
+    "blossom (s2)": {
+        "toda": "put-",
+        "pos": "verb",
+        "notes": "S2 = S1 + -t-",
+        "source": "Emeneau 1984, via Toda Language blog (Morphology page)"
+    },
+    "hatch (s1)": {
+        "toda": "kw\u00efl.-",
+        "pos": "verb",
+        "notes": "S2 formed with -d-",
+        "source": "Emeneau 1984, via Toda Language blog (Morphology page)"
+    },
+    "hatch (s2)": {
+        "toda": "kw\u00efl.d-",
+        "pos": "verb",
+        "notes": "S2 = S1 + -d-",
+        "source": "Emeneau 1984, via Toda Language blog (Morphology page)"
+    },
+    "steal (s1)": {
+        "toda": "kol.-",
+        "pos": "verb",
+        "notes": "S2 formed with -d-",
+        "source": "Emeneau 1984, via Toda Language blog (Morphology page)"
+    },
+    "steal (s2)": {
+        "toda": "kol.d-",
+        "pos": "verb",
+        "notes": "S2 = S1 + -d-",
+        "source": "Emeneau 1984, via Toda Language blog (Morphology page)"
+    },
+    "bathe (s1)": {
+        "toda": "miy-",
+        "pos": "verb",
+        "notes": "S2 formed with -d-",
+        "source": "Emeneau 1984, via Toda Language blog (Morphology page)"
+    },
+    "bathe (s2)": {
+        "toda": "mid-",
+        "pos": "verb",
+        "notes": "S2 = S1 + -d-",
+        "source": "Emeneau 1984, via Toda Language blog (Morphology page)"
+    }
+}
